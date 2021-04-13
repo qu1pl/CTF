@@ -1,6 +1,6 @@
 SESSIONS
-#DESCRIPTION
 WEB PAGE
+
 #SOLUTION
 
     Cookie: sessiontoken=UlN7MG5seV9PbmVfczNzc2lvbl90b2szbn0=
